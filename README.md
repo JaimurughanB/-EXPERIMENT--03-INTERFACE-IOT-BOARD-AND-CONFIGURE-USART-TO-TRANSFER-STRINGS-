@@ -214,11 +214,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 {}
 #endif
 ``````
-## Output screen shots of Serial port utility   :
+## Output :
+## SETUP SCREENSHOTS
+## Default setup
+![image](https://github.com/user-attachments/assets/92206889-2bf1-416e-8759-5dd25ad3de50)
+## Setup while sensing
+![image](https://github.com/user-attachments/assets/707e4a3e-a6b6-4a6f-8216-c3738ae04f7e)
 
- 
- 
- 
- 
 ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
